@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wuhu Island - Wii Sports Resort
+* source:	https://sketchfab.com/3d-models/wuhu-island-wii-sports-resort-68d83db076c944fdb5e1273f95b4fc7d
+* author:	Nelib! (https://sketchfab.com/Nelib)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wuhu Island - Wii Sports Resort" (https://sketchfab.com/3d-models/wuhu-island-wii-sports-resort-68d83db076c944fdb5e1273f95b4fc7d) by Nelib! (https://sketchfab.com/Nelib) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
