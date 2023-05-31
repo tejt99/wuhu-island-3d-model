@@ -11,4 +11,6 @@ Todo:
 - [ ] Golf house is broken
 - [ ] Some golf courses are broken
 
+NB: All textures are easy to access from blender file, they just need doing
+
 Feel free to add, edit, and contribute! :)
